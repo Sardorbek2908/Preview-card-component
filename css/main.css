@@ -47,7 +47,7 @@ a {
     height: 500px;
     background: var(--Orange);
     padding: 48px;
-    border-radius: 8px 0 0 0;
+    border-radius: 8px 0 0 8px;
 }
 
 .card2 {
